@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 14 Apr 2020
+# Last modified: 28 Apr 2020
 #
 0.0.0.0 doh.42l.fr
 #
@@ -37,11 +37,11 @@
 0.0.0.0 doh.armadillodns.net
 0.0.0.0 dohtrial.att.net
 #
-0.0.0.0 blahdns.com
 0.0.0.0 doh.blahdns.com
 0.0.0.0 doh-ch.blahdns.com
 0.0.0.0 doh-de.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 doh-sg.blahdns.com
 0.0.0.0 doh.blockerdns.com
 0.0.0.0 dns.brahma.world
 #
