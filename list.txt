@@ -50,6 +50,9 @@
 0.0.0.0 ibuki.cgnat.net
 0.0.0.0 canadianshield.cira.ca
 0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 family-filter-dns.cleanbrowsing.org
+0.0.0.0 adult-filter-dns.cleanbrowsing.org
+0.0.0.0 security-filter-dns.cleanbrowsing.org
 0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
@@ -122,6 +125,7 @@
 #
 0.0.0.0 doh.opendns.com
 0.0.0.0 doh.familyshield.opendns.com
+0.0.0.0 doh.sandbox.opendns.com
 0.0.0.0 resolver1.opendns.com
 0.0.0.0 resolver2.opendns.com
 0.0.0.0 resolver1-fs.opendns.com
