@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 28 Apr 2020
+# Last modified: 05 May 2020
 #
 0.0.0.0 doh.42l.fr
 #
@@ -32,6 +32,7 @@
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns2.alekberg.net
 0.0.0.0 dnsse.alekberg.net
+0.0.0.0 dns.alidns.com
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 doh.armadillodns.net
@@ -157,6 +158,7 @@
 0.0.0.0 dnsovertls.sinodun.com
 0.0.0.0 dnsovertls1.sinodun.com
 0.0.0.0 fi.doh.dns.snopyta.org
+0.0.0.0 dns.switch.ch
 0.0.0.0 ibksturm.synology.me
 #
 0.0.0.0 dns.t53.de
