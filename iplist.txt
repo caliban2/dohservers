@@ -7,7 +7,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 28 Apr 2020
+# Last modified: 05 May 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
@@ -283,3 +283,11 @@
 
 # doh-sg.blahdns.com
 139.180.141.57
+
+# dns.alidns.com
+223.5.5.5
+223.6.6.6
+
+# dns.switch.ch
+130.59.31.251
+130.59.31.248
