@@ -23,6 +23,9 @@
 
 # dns.cloudflare.com
 # (optional because cdnjs.cloudflare.com uses the same IPs)
+# 104.16.132.229
+# 104.16.133.229
+# used to be:
 # 104.17.64.4
 # 104.17.65.4
 
