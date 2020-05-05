@@ -125,7 +125,7 @@
 0.0.0.0 dns.nixnet.xyz
 0.0.0.0 lv1.nixnet.xyz
 0.0.0.0 lux1.nixnet.xyz
-p0.0.0.0 ny1.nixnet.xyz
+0.0.0.0 ny1.nixnet.xyz
 
 #
 0.0.0.0 doh.opendns.com
@@ -137,7 +137,6 @@ p0.0.0.0 ny1.nixnet.xyz
 0.0.0.0 resolver2-fs.opendns.com
 0.0.0.0 dns.oszx.co
 #
-0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 doh.northeu.pi-dns.com
 0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 doh.westus.pi-dns.com
