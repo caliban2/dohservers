@@ -158,8 +158,6 @@
 0.0.0.0 uw-dns.rubyfish.cn
 0.0.0.0 rumpelsepp.org
 #
-0.0.0.0 doh.securedns.eu
-0.0.0.0 ads-doh.securedns.eu
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
 0.0.0.0 dnsovertls.sinodun.com
