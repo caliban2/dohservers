@@ -7,7 +7,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 21 May 2020
+# Last modified: 25 May 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
@@ -306,3 +306,7 @@
 
 # adfree.usableprivacy.net
 149.154.153.153
+
+# dns.dnshome.de
+185.233.106.232
+185.233.107.4
