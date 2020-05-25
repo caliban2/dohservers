@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 21 May 2020
+# Last modified: 25 May 2020
 #
 0.0.0.0 doh.42l.fr
 #
@@ -81,6 +81,7 @@
 0.0.0.0 doh.dns.sb
 0.0.0.0 public-dns-a.dns.sb
 0.0.0.0 public-dns-b.dns.sb
+0.0.0.0 dns.dnshome.de
 0.0.0.0 doh.dnslify.com
 0.0.0.0 a.ns.dnslify.com
 0.0.0.0 b.ns.dnslify.com
