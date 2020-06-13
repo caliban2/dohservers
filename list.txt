@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 25 May 2020
+# Last modified: 13 June 2020
 #
 0.0.0.0 doh.42l.fr
 #
@@ -98,6 +98,7 @@
 #
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
+0.0.0.0 pdns.faelix.net
 0.0.0.0 dns.flatuslifir.is
 #
 0.0.0.0 dns.google.com
